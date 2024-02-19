@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Screens</string>
+    <string name="screen1text1">Mudah dalam bertransaksi,\ndengan Jumot</string>
+    <string name="screen1text2">Bisnis jual beli menjangkau ke seluruh wilayah\ndi Indonesia</string>
+    <string name="screen2text1">Mudah dalam bertransaksi,\ndengan Jumot</string>
+    <string name="screen2text2">Beli kendaraan sesuai minatmu dan dengan\nharga negosiasi terbaik</string>
+    <string name="screen2button1">Masuk</string>
+    <string name="screen2button2">Mendaftar</string>
+
+    <string name="screen3text1">Lupa password?</string>
+    <string name="screen3text2">Atau masuk menggunakan</string>
+    <string name="screen3text3">Belum punya akun? Mendaftar sekranag</string>
+
+    <string name="screen3button2">Google</string>
+    <string name="screen3button3">Facebook</string>
+
+    Facebook
+</resources>
